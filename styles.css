@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins' ,Arial, sans-serif;
+    background-color: #eadfc4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 2rem auto;
+    text-align: center;
+  }
+  
+  .chart-container {
+    margin-top: 1.5rem;
+  }
+  
